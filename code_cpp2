@@ -3,10 +3,10 @@
 int main() {
   int num1, num2, sum;
 
-  std::cout << "Enter the first number: ";
+  std::cout << "Enter the first number please: ";
   std::cin >> num1;
 
-  std::cout << "Enter the second number: ";
+  std::cout << "Enter the second number please: ";
   std::cin >> num2;
 
   sum = num1 + num2;
